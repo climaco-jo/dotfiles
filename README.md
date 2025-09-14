@@ -1,2 +1,2 @@
 # dotfiles
-i3 dotfiles
+*my current dotfiles with hyprland*
